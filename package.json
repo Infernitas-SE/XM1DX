@@ -1,0 +1,24 @@
+{
+  "name": "@infernitas-se/xm1dx",
+  "version": "1.0.0",
+  "description": "XM1DX Algorythmic Data Storage Engine",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infernitas-SE/XM1DX.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Oliver Karger",
+    "url": "https://infernitas-se.eu/authors/oliverkarger",
+    "email": "oliver.karger@infernitas-se.eu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Infernitas-SE/XM1DX/issues"
+  },
+  "homepage": "https://github.com/Infernitas-SE/XM1DX#readme",
+  "dependencies": {
+    "rxjs": "^7.4.0"
+  }
+}

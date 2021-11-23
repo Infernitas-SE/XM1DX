@@ -1,0 +1,8 @@
+node_modules/
+build/
+coverage/
+text-result/
+.xm1dx-cache
+.xm1dx-bin
+.xm1dx-objstore
+
